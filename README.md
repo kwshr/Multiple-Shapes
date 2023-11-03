@@ -27,10 +27,6 @@ Run the program.
 Use the mouse and keyboard controls to draw and experiment with different brushes.
 Enjoy your creative drawing!
 
-## Sample-images
-![Sample Image1](https://www.dropbox.com/scl/fi/nl4cd7gh0i1qlujr89zx7/image_202391820645.png?rlkey=z5c127cymxdcwzbecdq9hnjyk&dl=1)
-![Sample Image2](https://www.dropbox.com/scl/fi/rt50jxijgfymgo19nbbpa/image_2023918204213.png?rlkey=3vrx2df6oom3iqmdct5265pgr&dl=1)
-![Sample Image3](https://www.dropbox.com/scl/fi/oheser830hc4t1dpk7x1q/image_2023918215426.png?rlkey=3xtyg02yl89xuh4n1nyn77l05&dl=1)
 
 
 
