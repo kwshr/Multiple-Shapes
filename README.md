@@ -1,8 +1,4 @@
 # Drawing with Multiple Shapes
-
-Author: Kawshar Patel
-Date: September 19, 2023
-
 ## Description
 
 This program allows you to draw using various shapes and brushes. You can switch between different brush types and adjust the drawing parameters. It provides both mouse and keyboard controls for an interactive drawing experience.
